@@ -1,0 +1,231 @@
+HTTrack3.49-2-nossl launched on Tue, 18 Jul 2017 02:38:36 at http://www.paintinganddecoratingnewcastle.co.uk/
+(winhttrack http://www.paintinganddecoratingnewcastle.co.uk/ -O "trial/trial" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:43:56	Error: 	"Method Not Allowed" (405) at link www.paintinganddecoratingnewcastle.co.uk/xmlrpc.php (from www.paintinganddecoratingnewcastle.co.uk/)
+02:44:23	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/shortcodes/testimonials/
+02:44:23	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/shortcodes/testimonials/ to http://www.paintinganddecoratingnewcastle.co.uk/testimonials/
+02:48:32	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=3254
+02:48:32	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=3254 to http://www.paintinganddecoratingnewcastle.co.uk/interiors/
+02:48:48	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=3256
+02:48:48	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=3256 to http://www.paintinganddecoratingnewcastle.co.uk/exteriors/
+02:49:20	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1167
+02:49:20	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1167 to http://www.paintinganddecoratingnewcastle.co.uk/contact/
+02:49:45	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/portfolio-item/slider-two-third/feed/ (from www.paintinganddecoratingnewcastle.co.uk/portfolio-item/slider-two-third/)
+02:50:02	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=46
+02:50:02	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=46 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio-item/slider-two-third/
+02:51:09	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/portfolio-item/lorem-ipsum/feed/ (from www.paintinganddecoratingnewcastle.co.uk/portfolio-item/lorem-ipsum/)
+02:51:16	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=44
+02:51:16	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=44 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio-item/lorem-ipsum/
+02:51:55	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/portfolio-item/portfolio-big/feed/ (from www.paintinganddecoratingnewcastle.co.uk/portfolio-item/portfolio-big/)
+02:52:05	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=41
+02:52:05	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=41 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio-item/portfolio-big/
+02:52:38	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/portfolio-item/vimeo-video/feed/ (from www.paintinganddecoratingnewcastle.co.uk/portfolio-item/vimeo-video/)
+02:52:53	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=45
+02:52:53	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=45 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio-item/vimeo-video/
+02:53:16	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=891
+02:53:16	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=891 to http://www.paintinganddecoratingnewcastle.co.uk/testimonials/
+02:53:32	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=3378
+02:53:32	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=3378 to http://www.paintinganddecoratingnewcastle.co.uk/privacy-policy/
+02:54:05	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=3376
+02:54:05	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=3376 to http://www.paintinganddecoratingnewcastle.co.uk/terms-of-service/
+02:54:08	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=3374
+02:54:08	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=3374 to http://www.paintinganddecoratingnewcastle.co.uk/sitemap/
+03:11:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/class-breadcrumb.php
+03:12:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/class-update-notifier.php
+03:12:17	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2270
+03:12:17	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2270 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio/
+03:12:23	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=3187
+03:12:23	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=3187 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio/mixed-fullwidth-portfolio/
+03:12:31	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=95
+03:12:31	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=95 to http://www.paintinganddecoratingnewcastle.co.uk/custom-lightbox-click-the-image/
+03:12:55	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=Custom%20Lightbox%21&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=95 (from www.paintinganddecoratingnewcastle.co.uk/custom-lightbox-click-the-image/)
+03:12:59	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/custom-lightbox-click-the-image/ (from www.paintinganddecoratingnewcastle.co.uk/custom-lightbox-click-the-image/)
+03:13:00	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=252
+03:13:00	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=252 to http://www.paintinganddecoratingnewcastle.co.uk/aenean-vulputate-eleifend-tellus-aenean-leo-ligula/
+03:13:05	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=Postformat%20Gallery%3A%20Multiple%20images%20with%20different%20sizes&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=252 (from www.paintinganddecoratingnewcastle.co.uk/aenean-vulputate-eleifend-tellus-aenean-leo-ligula/)
+03:13:07	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/aenean-vulputate-eleifend-tellus-aenean-leo-ligula/ (from www.paintinganddecoratingnewcastle.co.uk/aenean-vulputate-eleifend-tellus-aenean-leo-ligula/)
+03:13:18	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=282
+03:13:18	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=282 to http://www.paintinganddecoratingnewcastle.co.uk/this-is-a-nice-post/
+03:13:25	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=This%20is%20a%20standard%20post%20format%20with%20preview%20Picture&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=282 (from www.paintinganddecoratingnewcastle.co.uk/this-is-a-nice-post/)
+03:13:29	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/this-is-a-nice-post/ (from www.paintinganddecoratingnewcastle.co.uk/this-is-a-nice-post/)
+03:13:30	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=237
+03:13:30	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=237 to http://www.paintinganddecoratingnewcastle.co.uk/this-is-a-test/
+03:13:36	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=This%20is%20a%20test&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=237 (from www.paintinganddecoratingnewcastle.co.uk/this-is-a-test/)
+03:13:39	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/this-is-a-test/ (from www.paintinganddecoratingnewcastle.co.uk/this-is-a-test/)
+03:13:45	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=93
+03:13:45	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=93 to http://www.paintinganddecoratingnewcastle.co.uk/html-styles/
+03:13:54	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=HTML%20Styles&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=93 (from www.paintinganddecoratingnewcastle.co.uk/html-styles/)
+03:13:55	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/html-styles/ (from www.paintinganddecoratingnewcastle.co.uk/html-styles/)
+03:14:05	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=250
+03:14:05	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=250 to http://www.paintinganddecoratingnewcastle.co.uk/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-aenean-commodo-ligula-eget-dolor-aenean-massa/
+03:14:11	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=Indented%20Quotes%20and%20Images%20%E2%80%93%20%20beautiful&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=250 (from www.paintinganddecoratingnewcastle.co.uk/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-aenean-commodo-ligula-eget-dolor-aenean-massa/)
+03:14:11	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-aenean-commodo-ligula-eget-dolor-aenean-massa/ (from www.paintinganddecoratingnewcastle.co.uk/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-aenean-commodo-ligula-eget-dolor-aenean-massa/)
+03:14:33	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=246
+03:14:33	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=246 to http://www.paintinganddecoratingnewcastle.co.uk/another-title-for-our-pretty-cool-blog/
+03:14:39	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=Another%20title%20for%20our%20pretty%20cool%20blog&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=246 (from www.paintinganddecoratingnewcastle.co.uk/another-title-for-our-pretty-cool-blog/)
+03:14:40	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/another-title-for-our-pretty-cool-blog/ (from www.paintinganddecoratingnewcastle.co.uk/another-title-for-our-pretty-cool-blog/)
+03:14:44	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=296
+03:14:44	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=296 to http://www.paintinganddecoratingnewcastle.co.uk/kriesi-at/
+03:14:47	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=This%20is%20a%20post%20%20with%20post%20format%20of%20type%20Link&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=296 (from www.paintinganddecoratingnewcastle.co.uk/kriesi-at/)
+03:14:51	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/kriesi-at/ (from www.paintinganddecoratingnewcastle.co.uk/kriesi-at/)
+03:15:00	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=94
+03:15:00	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=94 to http://www.paintinganddecoratingnewcastle.co.uk/advanced-jquery-functions/
+03:15:07	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=A%20Post%20without%20Image&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=94 (from www.paintinganddecoratingnewcastle.co.uk/advanced-jquery-functions/)
+03:15:09	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/advanced-jquery-functions/ (from www.paintinganddecoratingnewcastle.co.uk/advanced-jquery-functions/)
+03:15:11	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=254
+03:15:11	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=254 to http://www.paintinganddecoratingnewcastle.co.uk/nullam-dictum-felis-eu-pede-mollis-pretium-integer-tincidunt-cras-dapibus-vivamus-elementum-semper-nisi-aenean-vulputate-eleifend-tellus/
+03:15:13	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/twitter.com/share?text=Post%20Formats%20is%20a%20theme%20feature%20introduced%20with%20Version%203.1.%20Post%20Formats%20can%20be%20used%20by%20a%20theme%20to%20customize%20its%20presentation%20of%20a%20post.&url=http://www.paintinganddecoratingnewcastle.co.uk/?p=254 (from www.paintinganddecoratingnewcastle.co.uk/nullam-dictum-felis-eu-pede-mollis-pretium-integer-tincidunt-cras-dapibus-vivamus-elementum-semper-nisi-aenean-vulputate-eleifend-tellus/)
+03:15:13	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/plus.google.com/share?url=http://www.paintinganddecoratingnewcastle.co.uk/nullam-dictum-felis-eu-pede-mollis-pretium-integer-tincidunt-cras-dapibus-vivamus-elementum-semper-nisi-aenean-vulputate-eleifend-tellus/ (from www.paintinganddecoratingnewcastle.co.uk/nullam-dictum-felis-eu-pede-mollis-pretium-integer-tincidunt-cras-dapibus-vivamus-elementum-semper-nisi-aenean-vulputate-eleifend-tellus/)
+03:16:42	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1336
+03:16:42	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1336 to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-grid/
+03:17:14	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1010
+03:17:14	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1010 to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-multi-author/
+03:18:13	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1014
+03:18:13	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1014 to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-big/
+03:18:18	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1016
+03:18:18	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1016 to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-full/
+03:18:21	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1012
+03:18:21	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1012 to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-small/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2590
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2590 to http://www.paintinganddecoratingnewcastle.co.uk/blog/masonry-blog/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2967
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2967 to http://www.paintinganddecoratingnewcastle.co.uk/home-v10-magazine/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1108
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1108 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v2-3-col-images-contact/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1040
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1040 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v3-3-column-with-blog/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1070
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1070 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v4-small-slider/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1097
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1097 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v5/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1023
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1023 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v6-classic-4-column/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2251
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2251 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v7-one-page-portfolio/
+03:18:43	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2207
+03:18:43	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2207 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v8-frontpage-shop/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2826
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2826 to http://www.paintinganddecoratingnewcastle.co.uk/homepage/home-v9-videos-and-parallax/
+03:18:57	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/homepage/home-v9-videos-and-parallax/www.kriesi.at/themes/enfold/features/ (from www.paintinganddecoratingnewcastle.co.uk/homepage/home-v9-videos-and-parallax/)
+03:18:57	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/homepage/home-v9-videos-and-parallax/themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=kriesi (from www.paintinganddecoratingnewcastle.co.uk/homepage/home-v9-videos-and-parallax/)
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1122
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1122 to http://www.paintinganddecoratingnewcastle.co.uk/pages/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1195
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1195 to http://www.paintinganddecoratingnewcastle.co.uk/pages/about-us/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1236
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1236 to http://www.paintinganddecoratingnewcastle.co.uk/pages/blank/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1248
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1248 to http://www.paintinganddecoratingnewcastle.co.uk/pages/blank/coming-soon/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1261
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1261 to http://www.paintinganddecoratingnewcastle.co.uk/pages/blank/maintenance-mode/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1277
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1277 to http://www.paintinganddecoratingnewcastle.co.uk/pages/faq/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1224
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1224 to http://www.paintinganddecoratingnewcastle.co.uk/pages/help/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1324
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1324 to http://www.paintinganddecoratingnewcastle.co.uk/pages/landing-page/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1212
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1212 to http://www.paintinganddecoratingnewcastle.co.uk/pages/team/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1176
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1176 to http://www.paintinganddecoratingnewcastle.co.uk/pages/pricing/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1302
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1302 to http://www.paintinganddecoratingnewcastle.co.uk/pages/services/
+03:18:57	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/player.vimeo.com/video/1084537 (from www.paintinganddecoratingnewcastle.co.uk/pages/services/)
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2632
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2632 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio/masonry-portfolio/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=987
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=987 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio/portfolio-2-column/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=992
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=992 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio/portfolio-3-column/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2269
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2269 to http://www.paintinganddecoratingnewcastle.co.uk/portfolio/portfolio-ajax/
+03:18:57	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2 to http://www.paintinganddecoratingnewcastle.co.uk/sample-page/
+03:18:57	Warning: 	Moved Temporarily for www.paintinganddecoratingnewcastle.co.uk/wp-admin/
+03:18:57	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/wp-admin/ to http://www.paintinganddecoratingnewcastle.co.uk/wp-login.php?redirect_to=http%3A%2F%2Fwww.paintinganddecoratingnewcastle.co.uk%2Fwp-admin%2F&reauth=1
+03:18:58	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=750
+03:18:58	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=750 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/
+03:18:58	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=821
+03:18:58	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=821 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/animated-image/
+03:18:58	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=761
+03:18:58	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=761 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/
+03:20:37	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=776
+03:20:37	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=776 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/buttons/
+03:20:44	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=785
+03:20:44	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=785 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/columns/
+03:21:13	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=953
+03:21:13	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=953 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/contact-forms/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=852
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=852 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/easy-slider/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=73
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=73 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/gallery/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=799
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=799 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/hr/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=803
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=803 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/iconbox/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=812
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=812 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/iconlis/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=3192
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=3192 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/images-with-hotspots/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=854
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=854 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/layer-slider/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=829
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=829 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/notificatio/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=910
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=910 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/portfolio-shortcode/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=1156
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=1156 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/post-slider/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=862
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=862 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/pricing-and-data-tables/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=837
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=837 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/progressbars/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=847
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=847 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/promo-box/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=869
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=869 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/tabs/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=886
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=886 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/team/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=876
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=876 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/toggles-accordions/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=898
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=898 to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/video/
+03:21:19	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/?p=2890
+03:21:19	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/?p=2890 to http://www.paintinganddecoratingnewcastle.co.uk/transparent-header/
+03:21:19	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/transparent-header/themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=kriesi (from www.paintinganddecoratingnewcastle.co.uk/transparent-header/)
+03:22:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/auto-updates/class-envato-protected-api.php
+03:22:48	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/auto-updates/class-pixelentity-theme-update.php
+03:22:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/avia_shortcodes/preview-shortcode-external.php
+03:22:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/wordpress-importer/parsers.php
+03:22:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/wordpress-importer/wordpress-importer.php
+03:22:55	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/blog/blog-grid/page/2/?s=
+03:22:55	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/blog/blog-grid/page/2/?s= to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-grid/page/2/?s
+03:22:55	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/blog/blog-multi-author/page/2/?s=
+03:22:55	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/blog/blog-multi-author/page/2/?s= to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-multi-author/page/2/?s
+03:22:55	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-big/page/2/?s=
+03:22:55	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-big/page/2/?s= to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-big/page/2/?s
+03:23:26	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-full/page/2/?s=
+03:23:26	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-full/page/2/?s= to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-author-full/page/2/?s
+03:23:28	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-small/page/2/?s=
+03:23:28	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-small/page/2/?s= to http://www.paintinganddecoratingnewcastle.co.uk/blog/blog-single-small/page/2/?s
+03:23:28	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&subset=latin%2Clatin-ext&ver=4.3.11 (from www.paintinganddecoratingnewcastle.co.uk/wp-login.php?redirect_to=http%3A%2F%2Fwww.paintinganddecoratingnewcastle.co.uk%2Fwp-admin%2Fplugin-install.php%3Ftab%3Dsearch%26type%3Dterm%26s%3DWooCommerce%26plugin-search-input%3DSearch%2BPlugins&reauth=1)
+03:23:34	Warning: 	Moved Permanently for https://www.paintinganddecoratingnewcastle.co.uk//wordpress.org/
+03:23:34	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.paintinganddecoratingnewcastle.co.uk//wordpress.org/ and www.paintinganddecoratingnewcastle.co.uk/wordpress.org/
+03:23:34	Warning: 	File has moved from https://www.paintinganddecoratingnewcastle.co.uk//wordpress.org/ to http://www.paintinganddecoratingnewcastle.co.uk/wordpress.org/
+03:23:42	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/2/?s=
+03:23:42	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/2/?s= to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/2/?s
+03:23:42	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/3/?s=
+03:23:42	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/3/?s= to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/3/?s
+03:23:42	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/4/?s=
+03:23:42	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/4/?s= to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/4/?s
+03:23:42	Warning: 	Moved Permanently for www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/5/?s=
+03:23:42	Warning: 	File has moved from www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/5/?s= to http://www.paintinganddecoratingnewcastle.co.uk/shortcodes/blog-element/page/5/?s
+03:24:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.paintinganddecoratingnewcastle.co.uk/wp-content/themes/enfold/framework/php/avia_shortcodes/tinymce/dialog.php
+03:24:43	Error: 	"Not Found" (404) at link www.paintinganddecoratingnewcastle.co.uk/wp-admin/&reauth=1 (from www.paintinganddecoratingnewcastle.co.uk/wp-login.php?redirect_to=http%3A%2F%2Fwww.paintinganddecoratingnewcastle.co.uk%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 minutes 13 seconds : 800 links scanned, 677 files written (19666856 bytes overall) [21165397 bytes received at 7632 bytes/sec]
+(31 errors, 189 warnings, 0 messages)
